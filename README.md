@@ -11,6 +11,7 @@ An AI-powered tool to detect fake job postings using machine learning and NLP (N
 ✅ **Salary Verification** - Identifies unrealistic salary offers compared to industry standards  
 ✅ **Risk Assessment** - Provides a risk score for every job posting  
 
+
 ---
 
 ## 🛠️ Technologies Used
@@ -59,6 +60,17 @@ python train_model.py
 ```bash
 streamlit run app.py
 ```
+
+
+**some info :**
+
+
+
+![Screenshot 2025-03-07 233036](https://github.com/user-attachments/assets/45d6e4ed-957f-4ed0-aaef-5b4e9d4b25da)
+
+---
+
+![Screenshot 2025-03-07 233042](https://github.com/user-attachments/assets/c63d47ad-17ba-47f8-aa55-895ad2e2585c)
 
 ---
 
