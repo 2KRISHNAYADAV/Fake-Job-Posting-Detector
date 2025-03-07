@@ -74,6 +74,16 @@ streamlit run app.py
 
 ---
 
+
+![Screenshot 2025-03-07 233332](https://github.com/user-attachments/assets/c01f2956-5983-4f64-8084-742359ac4a1b)
+
+---
+
+![Screenshot 2025-03-07 233341](https://github.com/user-attachments/assets/ff5504e3-ea2b-4b0c-a0d0-1626a84ce1a9)
+
+---
+
+
 ## 🚀 Usage
 
 ### 🎯 **1. Train the Model**
