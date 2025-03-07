@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ## 📩 Contact
 
 👉 **GitHub:** [2KRISHNAYADAV](https://github.com/2KRISHNAYADAV)  
-👉 **Email:** your-email@example.com  
+👉 **Email:** darya1786587@gmail.com  
 
 ---
 
